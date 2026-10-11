@@ -1,0 +1,444 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-math-grade-7",
+  "title": "Mathematics Grade 7 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 7 Mathematics by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: Working with whole numbers",
+      "sections": [
+        {
+          "id": "sec-01-01-01-revision",
+          "title": "Revision",
+          "path": "chapters/01-working-with-whole-numbers/01-revision.mdx",
+          "estimatedMinutes": 33
+        },
+        {
+          "id": "sec-01-02-02-ordering-and-comparing-whole-numbers",
+          "title": "Ordering and comparing whole numbers",
+          "path": "chapters/01-working-with-whole-numbers/02-ordering-and-comparing-whole-numbers.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-01-03-03-factors-prime-numbers-and-common-multiples",
+          "title": "Factors, prime numbers and common multiples",
+          "path": "chapters/01-working-with-whole-numbers/03-factors-prime-numbers-and-common-multiples.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-01-04-04-properties-of-operations",
+          "title": "Properties of operations",
+          "path": "chapters/01-working-with-whole-numbers/04-properties-of-operations.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-01-05-05-basic-operations",
+          "title": "Basic operations",
+          "path": "chapters/01-working-with-whole-numbers/05-basic-operations.mdx",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "sec-01-06-06-problem-solving",
+          "title": "Problem solving",
+          "path": "chapters/01-working-with-whole-numbers/06-problem-solving.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Exponents",
+      "sections": [
+        {
+          "id": "sec-02-01-01-quick-squares-and-cubes",
+          "title": "Quick squares and cubes",
+          "path": "chapters/02-exponents/01-quick-squares-and-cubes.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-02-02-the-exponential-notation",
+          "title": "The exponential notation",
+          "path": "chapters/02-exponents/02-the-exponential-notation.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-02-03-03-squares-and-cubes",
+          "title": "Squares and cubes",
+          "path": "chapters/02-exponents/03-squares-and-cubes.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-04-04-the-square-root-and-the-cube-root",
+          "title": "The square root and the cube root",
+          "path": "chapters/02-exponents/04-the-square-root-and-the-cube-root.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-05-05-comparing-numbers-in-exponential-form",
+          "title": "Comparing numbers in exponential form",
+          "path": "chapters/02-exponents/05-comparing-numbers-in-exponential-form.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-06-06-calculations",
+          "title": "Calculations",
+          "path": "chapters/02-exponents/06-calculations.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Geometry of straight lines",
+      "sections": [
+        {
+          "id": "sec-03-01-01-line-segments-lines-and-rays",
+          "title": "Line segments, lines and rays",
+          "path": "chapters/03-geometry-of-straight-lines/01-line-segments-lines-and-rays.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-02-02-parallel-and-perpendicular-lines",
+          "title": "Parallel and perpendicular lines",
+          "path": "chapters/03-geometry-of-straight-lines/02-parallel-and-perpendicular-lines.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: Construction of geometric figures",
+      "sections": [
+        {
+          "id": "sec-04-01-01-angles-revision",
+          "title": "Angles revision",
+          "path": "chapters/04-construction-of-geometric-figures/01-angles-revision.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-02-02-the-degree-a-unit-for-measuring-angles",
+          "title": "The degree: a unit for measuring angles",
+          "path": "chapters/04-construction-of-geometric-figures/02-the-degree-a-unit-for-measuring-angles.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-03-03-using-the-protractor",
+          "title": "Using the protractor",
+          "path": "chapters/04-construction-of-geometric-figures/03-using-the-protractor.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-04-04-using-a-protractor-to-construct-angles",
+          "title": "Using a protractor to construct angles",
+          "path": "chapters/04-construction-of-geometric-figures/04-using-a-protractor-to-construct-angles.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-05-05-parallel-and-perpendicular-lines",
+          "title": "Parallel and perpendicular lines",
+          "path": "chapters/04-construction-of-geometric-figures/05-parallel-and-perpendicular-lines.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-06-06-circles-are-very-special-figures",
+          "title": "Circles are very special figures",
+          "path": "chapters/04-construction-of-geometric-figures/06-circles-are-very-special-figures.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-07-07-using-the-compass",
+          "title": "Using the compass",
+          "path": "chapters/04-construction-of-geometric-figures/07-using-the-compass.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-08-08-using-circles-to-draw-other-figures",
+          "title": "Using circles to draw other figures",
+          "path": "chapters/04-construction-of-geometric-figures/08-using-circles-to-draw-other-figures.mdx",
+          "estimatedMinutes": 33
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Geometry of shapes",
+      "sections": [
+        {
+          "id": "sec-05-01-01-triangles-quadrilaterals-circles-and-others",
+          "title": "Triangles, quadrilaterals, circles and others",
+          "path": "chapters/05-geometry-of-shapes/01-triangles-quadrilaterals-circles-and-others.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-02-02-different-types-of-triangles",
+          "title": "Different types of triangles",
+          "path": "chapters/05-geometry-of-shapes/02-different-types-of-triangles.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-03-03-different-types-of-quadrilaterals",
+          "title": "Different types of quadrilaterals",
+          "path": "chapters/05-geometry-of-shapes/03-different-types-of-quadrilaterals.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-04-04-circles",
+          "title": "Circles",
+          "path": "chapters/05-geometry-of-shapes/04-circles.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-05-05-similar-and-congruent-shapes",
+          "title": "Similar and congruent shapes",
+          "path": "chapters/05-geometry-of-shapes/05-similar-and-congruent-shapes.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Term revision and assessment",
+      "sections": [
+        {
+          "id": "sec-06-01-01-revision",
+          "title": "Revision",
+          "path": "chapters/06-term-revision-and-assessment-01/01-revision.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-06-02-02-assessment",
+          "title": "Assessment",
+          "path": "chapters/06-term-revision-and-assessment-01/02-assessment.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Fractions",
+      "sections": [
+        {
+          "id": "sec-07-01-01-measuring-accurately-with-parts-of-a-unit",
+          "title": "Measuring accurately with parts of a unit",
+          "path": "chapters/07-fractions/01-measuring-accurately-with-parts-of-a-unit.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-07-02-02-different-parts-in-different-colours",
+          "title": "Different parts in different colours",
+          "path": "chapters/07-fractions/02-different-parts-in-different-colours.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-03-03-combining-fractions",
+          "title": "Combining fractions",
+          "path": "chapters/07-fractions/03-combining-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-04-04-tenths-and-hundredths-percentages",
+          "title": "Tenths and hundredths (percentages)",
+          "path": "chapters/07-fractions/04-tenths-and-hundredths-percentages.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-05-05-thousandths-hundredths-and-tenths",
+          "title": "Thousandths, hundredths and tenths",
+          "path": "chapters/07-fractions/05-thousandths-hundredths-and-tenths.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-06-06-fraction-of-a-fraction",
+          "title": "Fraction of a fraction",
+          "path": "chapters/07-fractions/06-fraction-of-a-fraction.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-07-07-multiplying-with-fractions",
+          "title": "Multiplying with fractions",
+          "path": "chapters/07-fractions/07-multiplying-with-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-08-08-ordering-and-comparing-fractions",
+          "title": "Ordering and comparing fractions",
+          "path": "chapters/07-fractions/08-ordering-and-comparing-fractions.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: The decimal notation for fractions",
+      "sections": [
+        {
+          "id": "sec-08-01-01-other-symbols-for-tenths-and-hundredths",
+          "title": "Other symbols for tenths and hundredths",
+          "path": "chapters/08-the-decimal-notation-for-fractions/01-other-symbols-for-tenths-and-hundredths.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-02-02-percentages-and-decimal-fractions",
+          "title": "Percentages and decimal fractions",
+          "path": "chapters/08-the-decimal-notation-for-fractions/02-percentages-and-decimal-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-03-03-decimal-measurements",
+          "title": "Decimal measurements",
+          "path": "chapters/08-the-decimal-notation-for-fractions/03-decimal-measurements.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-04-04-more-decimal-concepts",
+          "title": "More decimal concepts",
+          "path": "chapters/08-the-decimal-notation-for-fractions/04-more-decimal-concepts.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-05-05-ordering-and-comparing-decimal-fractions",
+          "title": "Ordering and comparing decimal fractions",
+          "path": "chapters/08-the-decimal-notation-for-fractions/05-ordering-and-comparing-decimal-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-06-06-rounding-off",
+          "title": "Rounding off",
+          "path": "chapters/08-the-decimal-notation-for-fractions/06-rounding-off.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-07-07-addition-and-subtraction-with-decimal-fractions",
+          "title": "Addition and subtraction with decimal fractions",
+          "path": "chapters/08-the-decimal-notation-for-fractions/07-addition-and-subtraction-with-decimal-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-08-08-multiplication-and-decimal-fractions",
+          "title": "Multiplication and decimal fractions",
+          "path": "chapters/08-the-decimal-notation-for-fractions/08-multiplication-and-decimal-fractions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-09-09-division-and-decimal-fractions",
+          "title": "Division and decimal fractions",
+          "path": "chapters/08-the-decimal-notation-for-fractions/09-division-and-decimal-fractions.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: Relationships between variables",
+      "sections": [
+        {
+          "id": "sec-09-01-01-constant-and-variable-quantities",
+          "title": "Constant and variable quantities",
+          "path": "chapters/09-relationships-between-variables/01-constant-and-variable-quantities.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-02-02-different-ways-to-describe-relationships",
+          "title": "Different ways to describe relationships",
+          "path": "chapters/09-relationships-between-variables/02-different-ways-to-describe-relationships.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Perimeter and area of shapes",
+      "sections": [
+        {
+          "id": "sec-10-01-01-perimeter-of-polygons",
+          "title": "Perimeter of polygons",
+          "path": "chapters/10-perimeter-and-area-of-shapes/01-perimeter-of-polygons.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-02-02-perimeter-formulae",
+          "title": "Perimeter formulae",
+          "path": "chapters/10-perimeter-and-area-of-shapes/02-perimeter-formulae.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-03-03-area-and-square-units",
+          "title": "Area and square units",
+          "path": "chapters/10-perimeter-and-area-of-shapes/03-area-and-square-units.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-04-04-area-of-squares-and-rectangles",
+          "title": "Area of squares and rectangles",
+          "path": "chapters/10-perimeter-and-area-of-shapes/04-area-of-squares-and-rectangles.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-10-05-05-area-of-triangles",
+          "title": "Area of triangles",
+          "path": "chapters/10-perimeter-and-area-of-shapes/05-area-of-triangles.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Surface area and volume of objects",
+      "sections": [
+        {
+          "id": "sec-11-01-01-surface-area-of-cubes-and-rectangular-prisms",
+          "title": "Surface area of cubes and rectangular prisms",
+          "path": "chapters/11-surface-area-and-volume-of-objects/01-surface-area-of-cubes-and-rectangular-prisms.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-02-02-volume-of-rectangular-prisms-and-cubes",
+          "title": "Volume of rectangular prisms and cubes",
+          "path": "chapters/11-surface-area-and-volume-of-objects/02-volume-of-rectangular-prisms-and-cubes.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-03-03-converting-between-cubic-units",
+          "title": "Converting between cubic units",
+          "path": "chapters/11-surface-area-and-volume-of-objects/03-converting-between-cubic-units.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-04-04-volume-and-capacity",
+          "title": "Volume and capacity",
+          "path": "chapters/11-surface-area-and-volume-of-objects/04-volume-and-capacity.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: Term revision and assessment",
+      "sections": [
+        {
+          "id": "sec-12-01-01-revision",
+          "title": "Revision",
+          "path": "chapters/12-term-revision-and-assessment-02/01-revision.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-12-02-02-assessment",
+          "title": "Assessment",
+          "path": "chapters/12-term-revision-and-assessment-02/02-assessment.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    }
+  ]
+}

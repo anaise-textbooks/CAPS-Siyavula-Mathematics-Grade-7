@@ -1,0 +1,13 @@
+# Mathematics Grade 7 (CAPS)
+
+Complete CAPS-aligned digital textbook for Grade 7 Mathematics by Siyavula Education.
+
+Structured and formatted as an **Anaise Book Repository** according to the [Anaise Curriculum & Content Authoring Guidelines](.agents/skills/extract-siyavula/anaise%20authoring%20guideline.md).
+
+## Specifications
+- **Curriculum Standard**: South Africa & Commonwealth (CAPS)
+- **Content Format**: MDX + KaTeX Mathematics
+- **Manifest**: `book.manifest.json` adhering to `https://anaise.org/schemas/book.v1.json`
+- **Total Chapters**: 12
+- **License**: Creative Commons Attribution 4.0 International (CC-BY-4.0)
+- **Original Source**: [Siyavula Education](https://www.siyavula.com/read/za/mathematics/grade-7)
